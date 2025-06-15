@@ -1,0 +1,12 @@
+[
+  {
+    "identifier": "license:1234567890",
+    "type": "license",
+    "reason": "Troll"
+  },
+  {
+    "identifier": "discord:123456789",
+    "type": "discord",
+    "reason": "Toxic"
+  }
+]
